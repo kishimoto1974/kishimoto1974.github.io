@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Research Interests
-======
 * Artificial Intelligence
   * E.g., Search, planning, and combination of search with machine learning
 * Applications of AI and machine learning to chemistry/material discovery
