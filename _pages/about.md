@@ -9,11 +9,11 @@ redirect_from:
 My current research Interests are as follows: 
 
 * Artificial Intelligence
-  * E.g., Search, planning, and combination of search with machine learning
+  * E.g., search, planning, and combination of search with machine learning
 * Applications of AI and machine learning to chemistry/material discovery
 * Large-scale parallelization of search
 * Other real-world applications of AI and machine Learning
-  * E.g., Smart cities,social/health care, dialogue planning
+  * E.g., smart cities,social/health care, dialogue planning
 
 Education
 ======
