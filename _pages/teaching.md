@@ -6,7 +6,7 @@ author_profile: true
 
 This is not a comprehensive list. 
 
-1. Graph Search Algorithm I (グラフ探索アルゴリズム in Japanese), Graduate School of Information Science and Electrical Engineering, Kyushu University, Japan, 2023 and 2024. 
+1. Graph Search Algorithm I (グラフ探索アルゴリズムI in Japanese), Graduate School of Information Science and Electrical Engineering, Kyushu University, Japan, 2023 and 2024. 
 
 1. Artificial Intelligence (with Bui Huy Kien), Vietnam Japan University, Vietnam, 2023.
    * I gave five lectures out of 12 lectures.
