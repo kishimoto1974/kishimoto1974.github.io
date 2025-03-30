@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My current research Interests are as follows: 
+My current research interests are as follows: 
 
 * Artificial Intelligence
   * E.g., search, planning, and combination of search with machine learning
