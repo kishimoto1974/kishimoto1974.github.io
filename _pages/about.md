@@ -26,7 +26,7 @@ Full-Time Work Experience
 * Senior Solution Architect, NVIDIA, Japan, 6/2024-Present
 * Senior Research Scientist, IBM Research, Tokyo, Japan, 5/2022-6/2024
 * Research Staff Member, IBM Research, Tokyo, Japan, 10/2020-4/2022
-* Research Staff Member, IBM Research, Europe, Ireland, 1/2012-9/2020
+* Research Staff Member, IBM Research, Europe, Ireland, 1/2013-9/2020
 * Assistant Professor, Tokyo Institute of Technology, Japan, 4/2009-12/2012
 * Assistant Professor, Future University-Hakodate, Japan, 4/2007-3/2009 
 
