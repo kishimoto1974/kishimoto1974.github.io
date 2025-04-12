@@ -32,7 +32,7 @@ Full-Time Work Experience
 
 Part-Time Work Experience 
 ======
-* Board Director (理事), The Japanese Society for Artificial Intelligence (JSAI, 人工知能学会), 6/2024-Present
+* Board Director (理事), The Japanese Society for Artificial Intelligence (JSAI, 人工知能学会), 7/2024-Present
 * Adjunct Professor (客員教授), Graduate School of Information Science and Electrical Engineering, Kyushu University, Japan, 4/2023-9/2023, 4/2024-9/2024 
 * Visiting Lecturer, Vietnam Japan University (the seventh university under Vietnam National University, Hanoi), Vietnam, 9/2023-10/2023 
 * PRESTO (さきがけ) Researcher, Japan Science and Technology Agency, 10/2008-3/2012
