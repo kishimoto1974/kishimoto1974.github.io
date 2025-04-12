@@ -169,7 +169,7 @@ Volume 175, Issue 4, pages 296-314, 2005.
 
 ## Invited Articles
 
-1. Jonathan Schaeffer, Martin Müller and **Akihiro Kishimoto**. ["Go bot, Go - AIs Have Mastered Chess. Will Go Be Next?"](https://spectrum.ieee.org/ais-have-mastered-chess-will-go-be-next),  IEEE Spectrum Volume 51, Number 7, 48-53, 2014.
+1. Jonathan Schaeffer, Martin Müller and **Akihiro Kishimoto**. ["Go bot, Go - AIs Have Mastered Chess. Will Go Be Next?"](https://spectrum.ieee.org/ais-have-mastered-chess-will-go-be-next),  **IEEE Spectrum**, Volume 51, Number 7, 48-53, 2014.
 
 1. **Akihiro Kishimoto**. ["Other Two-Player Games"](https://cir.nii.ac.jp/crid/1050282812877474432) (その他の二人ゲーム in Japanese), IPSJ Magazine  (情報処理学会会誌), Volume 53, Number 2, pages 139-145, 2012.
 
