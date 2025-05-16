@@ -7,7 +7,7 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Granted Patents
 
-1. "Automated system for customer support", United States Patent Application Number 12,271,908. 
+1. "Automated system for customer support", United States Patent Number 12,271,908. 
 
 1. "Dialogue-and machine learning-facilitated code development", United States Patent Number 12,197,895. 
 
