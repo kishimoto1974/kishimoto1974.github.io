@@ -7,6 +7,8 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Granted Patents
 
+1. "Automated system for customer support", United States Patent Application Number 12,271,908. 
+
 1. "Dialogue-and machine learning-facilitated code development", United States Patent Number 12,197,895. 
 
 1. "Symbolic model training with active learning", United States Patent Number 12,165,019.
@@ -92,6 +94,8 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Patent Applications
 
+1. "Generative modelling of molecular structures", United States Patent Application Number 18/539,942. 
+
 1. "Name-invariant graph neural representations for automated theorem proving", United States Patent Application Number 18/352,725.
 
 1. "Latent representation learning based on molecular graphs and production rules", United States Patent Application Number 18/213,202. 
@@ -107,8 +111,6 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 1. "Feature selection and hyperparameter optimization using LDS", United States Patent Application Number 17/408,650. 
 
 1. "Generating and validating optimized membranes for carbon dioxide separation in binary gas", United States Patent Application Number 17/401,279.
-
-1. "Automated system for customer support", United States Patent Application Number 17/370,092. 
 
 1. "Decision optimization utilizing tabular data", United States Patent Application Number 17/363,542.
 
