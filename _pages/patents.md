@@ -7,6 +7,8 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Granted Patents
 
+1. "Optimization of multiple molecules", United States Patent Number 12,334,195. 
+
 1. "Automated system for customer support", United States Patent Number 12,271,908. 
 
 1. "Dialogue-and machine learning-facilitated code development", United States Patent Number 12,197,895. 
@@ -103,8 +105,6 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 1. "DRY PHOTORESIST OR HARDMASK FOR EUV LITHOGRAPHY", United States Patent Application Number 18/319,757.
 
 1. "Generating molecules accounting for reaction conditions and reaction products", United Patent Application Number 18/188,526. 
-
-1. "Optimization of multiple molecules", United States Patent Application Number 17/559,595.
 
 1. "Lifecycle management in collaborative version control",  United States Patent Application Number 17/462,996. 
 
