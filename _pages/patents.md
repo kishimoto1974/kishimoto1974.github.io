@@ -7,6 +7,8 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Granted Patents
 
+1. "Generating summary and next actions in real-time for multiple users from interaction records in natural language", United States Patent Number 12,380,344. 
+
 1. "Optimization of multiple molecules", United States Patent Number 12,334,195. 
 
 1. "Automated system for customer support", United States Patent Number 12,271,908. 
@@ -113,8 +115,6 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 1. "Generating and validating optimized membranes for carbon dioxide separation in binary gas", United States Patent Application Number 17/401,279.
 
 1. "Decision optimization utilizing tabular data", United States Patent Application Number 17/363,542.
-
-1. "Generating summary and next actions in real-time for multiple users from interaction records in natural language", United States Patent Application Number 17/139,214.
 
 1. "Optimized group buying schemes", United States Patent Application Number 17/120,320 (abandoned).
 
