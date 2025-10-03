@@ -7,6 +7,8 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Granted Patents
 
+1. "Intelligent resolution of conflicting information in adaptive dialog systems",  United States Patent Number 12,411,843. 
+
 1. "Generating summary and next actions in real-time for multiple users from interaction records in natural language", United States Patent Number 12,380,344. 
 
 1. "Optimization of multiple molecules", United States Patent Number 12,334,195. 
@@ -127,7 +129,5 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 1. "Privacy protection of entities in a transportation system",  United States Patent Application Number 16/262,483.
 
 1. "Semi-automated correction of policy rules", United States Patent Application Number 16/194,621. 
-
-1. "Intelligent resolution of conflicting information in adaptive dialog systems",  United States Patent Application Number 16/193,612. 
 
 1. "Automated claims auditing", United States Patent Application Number 16/151,041 (abandoned).
