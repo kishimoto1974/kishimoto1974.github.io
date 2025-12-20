@@ -132,7 +132,11 @@ Volume 175, Issue 4, pages 296-314, 2005.
 
 ## Workshops/Domestic Conferences (Recent Work Only)
 
-1. Victor Yukio Shirasuna, Eduardo Soares, Emilio Vital Brazil, Karen Fiorella Aquino Gutierrez, Renato Cerqueira, Seiji Takeda, and **Akihiro Kishimoto**. ["A multi-view mixture-of-experts based on language and graphs for molecular properties prediction"](https://openreview.net/pdf?id=PkDHmg2JLI),  ICML 2024 AI for Science Workshop, 2024. 
+1. Hajime Shinohara, **Akihiro Kishimoto** and Hiroshi Kajino. ["Enhancing UV Spectral Prediction through Auxiliary Task, Curriculum Learning, and Curvature Limitation"](https://openreview.net/pdf?id=RRLNhk0dg7), AI for Accelerated Materials Design (NeurIPS 2025 Workshop), 2025.
+
+1. Lisa Hamada, **Akihiro Kishimoto**, Junta Fuchiwaki, Kohei Miyaguchi, Masataka Hisrose, Indra Priyadarsini, Seiji Takeda, Sina Klampt and Takamo Moriyama. ["Enabling Accurate and Interpretable Property Prediction with TDiMS in Large Molecules"](https://openreview.net/pdf?id=qworbBt8vo), AI for Accelerated Materials Design (NeurIPS 2025 Workshop), 2025.    
+
+1. Victor Yukio Shirasuna, Eduardo Soares, Emilio Vital Brazil, Karen Fiorella Aquino Gutierrez, Renato Cerqueira, Seiji Takeda, and **Akihiro Kishimoto**. ["A multi-view mixture-of-experts based on language and graphs for molecular properties prediction"](https://openreview.net/pdf?id=PkDHmg2JLI), ICML 2024 AI for Science Workshop, 2024. 
 
 1.  Indra Priyadarsini, Vidushi Sharma Seiji Takeda, **Akihiro Kishimoto**, Lisa Hamada, Hajime Shinohara. ["Improving Performance Prediction of Electrolyte Formulations with Transformer-based Molecular Representation Model"](https://arxiv.org/pdf/2406.19792?), ICML 2024 ML4LMS Workshop, 2024. 
 

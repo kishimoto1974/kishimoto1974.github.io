@@ -100,6 +100,10 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Patent Applications
 
+1. "Efficient sampling for theorem proving", United States Patent Application Number 18/731,487. 
+
+1. "Curriculum learning in finer spectrum inference", United States Patent Application Number 18/663,469.
+
 1. "Generative modelling of molecular structures", United States Patent Application Number 18/539,942. 
 
 1. "Name-invariant graph neural representations for automated theorem proving", United States Patent Application Number 18/352,725.
