@@ -7,6 +7,10 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Granted Patents
 
+1. "Lifecycle management in collaborative version control",  United States Patent Number 12,511,594. 
+
+1. "Generating and validating optimized membranes for carbon dioxide separation in binary gas", United States Patent Number 12,508,550. 
+
 1. "Intelligent resolution of conflicting information in adaptive dialog systems",  United States Patent Number 12,411,843. 
 
 1. "Generating summary and next actions in real-time for multiple users from interaction records in natural language", United States Patent Number 12,380,344. 
@@ -114,11 +118,7 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 1. "Generating molecules accounting for reaction conditions and reaction products", United Patent Application Number 18/188,526. 
 
-1. "Lifecycle management in collaborative version control",  United States Patent Application Number 17/462,996. 
-
 1. "Feature selection and hyperparameter optimization using LDS", United States Patent Application Number 17/408,650. 
-
-1. "Generating and validating optimized membranes for carbon dioxide separation in binary gas", United States Patent Application Number 17/401,279.
 
 1. "Decision optimization utilizing tabular data", United States Patent Application Number 17/363,542.
 
