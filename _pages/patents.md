@@ -7,6 +7,8 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Granted Patents
 
+1. "Feature selection and hyperparameter optimization using LDS", United States Patent Number 12,547,930. 
+
 1. "Lifecycle management in collaborative version control",  United States Patent Number 12,511,594. 
 
 1. "Generating and validating optimized membranes for carbon dioxide separation in binary gas", United States Patent Number 12,508,550. 
@@ -104,6 +106,8 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 
 ## Patent Applications
 
+1. "Training machine learning models to predict properties of molecules", United States Patent Application Number 18/806,191. 
+
 1. "Efficient sampling for theorem proving", United States Patent Application Number 18/731,487. 
 
 1. "Curriculum learning in finer spectrum inference", United States Patent Application Number 18/663,469.
@@ -117,8 +121,6 @@ You can also find my patents on [my Google Scholar profile](https://scholar.goog
 1. "DRY PHOTORESIST OR HARDMASK FOR EUV LITHOGRAPHY", United States Patent Application Number 18/319,757.
 
 1. "Generating molecules accounting for reaction conditions and reaction products", United Patent Application Number 18/188,526. 
-
-1. "Feature selection and hyperparameter optimization using LDS", United States Patent Application Number 17/408,650. 
 
 1. "Decision optimization utilizing tabular data", United States Patent Application Number 17/363,542.
 
