@@ -6,7 +6,7 @@ author_profile: true
 You can also find many of my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=2KN9ivEAAAAJ&hl) and [ResearchGate profile](https://www.researchgate.net/profile/Akihiro-Kishimoto).
 
 ## Journals
-1. Lisa Hamada, **Akihiro Kishimoto**, Kohei Miyaguchi, Masataka Hirose, Junta Fuchiwaki, Indra Priyadarsini,  and Seiji Takeda. ["Revisiting molecular descriptors with TDiMS for interpretable intramolecular interactions based on substructure pairs"](https://www.nature.com/articles/s43588-026-01036-3), *Nature Computational Science*, Volume 6, pages 945--953, 2026. 
+1. Lisa Hamada, **Akihiro Kishimoto**, Kohei Miyaguchi, Masataka Hirose, Junta Fuchiwaki, Indra Priyadarsini,  and Seiji Takeda. ["Revisiting molecular descriptors with TDiMS for interpretable intramolecular interactions based on substructure pairs"](https://www.nature.com/articles/s43588-026-01036-3), ___Nature Computational Science___, Volume 6, pages 945--953, 2026. 
 
 1. **Akihiro Kishimoto**, Dan Wu, and Donal F. O'Shea. ["Forecasting vaping health risks through neural network model prediction of flavour pyrolysis reactions"](https://www.nature.com/articles/s41598-024-59619-x), *Scientific Reports*, Volume 14, Article Number 9591, 2024.
 
