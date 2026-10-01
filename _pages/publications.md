@@ -187,7 +187,7 @@ Volume 175, Issue 4, pages 296--314, 2005.
 
 ## Book Chapter Translation
 
-1. Stuart Russell and Peter Norvig. ``Artificial Intelligence: A Modern Approach (Fourth Edition)''. In charge of translating Chapter 3 ``Solving Problems by Searching'', Kyoritsu Shuppan Press, 2026.  
+1. Stuart Russell and Peter Norvig. "Artificial Intelligence: A Modern Approach (Fourth Edition)". In charge of translating Chapter 3 "Solving Problems by Searching", Kyoritsu Shuppan Press, 2026.  
 
 ## Other Articles
 
