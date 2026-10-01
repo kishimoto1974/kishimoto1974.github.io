@@ -185,6 +185,10 @@ Volume 175, Issue 4, pages 296--314, 2005.
 
 1. **Akihiro Kishimoto**. ["Complete Information Games and AND/OR Tree Search"](https://orsj.org/?p=2169) (完全情報ゲームとAND/OR木探索 in Japanese), Operations Research Society of Japan (ORSJ) Magazine (日本オペレーションズ・リサーチ学会機関誌), Volume 52(1), pages 22--26, 2007.
 
+## Book Chapter Translation
+
+1. Stuart Russell and Peter Norvig. ``Artificial Intelligence: A Modern Approach (Fourth Edition)''. In charge of translating Chapter 3 ``Solving Problems by Searching'', Kyoritsu Shuppan Press, 2026.  
+
 ## Other Articles
 
 1. **Akihiro Kishimoto**. ["Experience at IBM Research, Ireland"](https://www.jstage.jst.go.jp/article/jjsai/37/5/37_672/_article/-char/ja/) (IBMアイルランド研究所での経験について in Japanese), The Japanese Society for Artificial Intelligence Magazine (人工知能学会会誌), Volume 37, Number 5, pages 672--674, 2022.
